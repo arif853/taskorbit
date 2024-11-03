@@ -431,6 +431,6 @@
 			});
 		});
 	</script>
-    @yield('script')
+    @stack('script')
 </body>
 </html>
