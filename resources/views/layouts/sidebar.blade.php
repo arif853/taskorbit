@@ -90,7 +90,7 @@
                         <div class="collapse" id="domain-nav">
                             <ul class="nav nav-collapse">
                                 <li>
-                                    <a href="#">
+                                    <a href="{{route('domain.index')}}">
                                         <span class="sub-item">Domain</span>
                                     </a>
                                 </li>
